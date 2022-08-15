@@ -1,0 +1,49 @@
+JavaScript Project List
+========================
+1) Navbar scroll change background color Project
+2) CUT , COPY , PASTE Project
+3) light on off project
+4) WebCam with Capture Image project
+5) ANIMATED COUNTER NUMBER project
+6) COLOR PICKER project
+7) ACTIVE NAVBAR project
+8) Running Car project
+9) Password show & hide project
+10) Animated Slider project
+=============
+11) MODAL POPUP BOX project
+12) click and change image ONCLICK IMAGE ZOOM project
+13) todo app|js project
+14) QUIZ APP project
+15) Sidebar hide and show project
+16) RESPONSIVE NAVBAR project
+17) TEXT TYPE EFFECT animation project
+18) Multiple TEXT TYPE EFFECT animation project
+19) CONDITIONAL FORM VALIDATION project
+20) Auto ANIMATED SLIDER/Image Change project
+===========
+21) check wifi off or on project
+22) SHOPPING ADD TO CART project
+23) clickeble slider project
+24) Web page scroll after arrow button active / 
+To to Bottom Arrow Button Project
+25) phone number simple form validation project
+26) do app student add project
+27) Page / Div animation project
+28) search image project
+29) check prime number or not project
+30) exam mark calculator project
+=============
+31) calculator project
+32) Speech to text Speech Recognition project
+33) PERSONAL VOICE ALEXA ASSISTANT project
+34) scroll page counter animated number project
+35) dependable select dropdown option project
+36) dependable change Text color project
+37) Digital Clock Project
+38) Increament and Decreament Project
+39) Decimal to Binary Converter Project [JS Bangladesh]
+40) Dummy Text Generator Project [JS Bangladesh]
+============
+41) Tip Calculator App Project [JS Bangladesh]
+42) Hex Color Code Generator Project [JS Bangladesh]
